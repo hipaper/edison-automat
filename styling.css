@@ -164,6 +164,12 @@ footer p a {
         padding-bottom: 5%;
         text-align: center;
     }
+    nav li img{
+        padding-left: 5px;
+    }
+    nav li a {
+        padding-left: 5px;
+    }
 }
 @media (min-width: 601px){
     .title{
